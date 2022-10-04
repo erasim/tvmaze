@@ -1,6 +1,6 @@
 {
-  "name": "reacttvmaze",
-  "homepage": "http://erasim.github.io/reacttvmaze",
+  "name": "tvmaze",
+  "homepage": "http://erasim.github.io/tvmaze",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
