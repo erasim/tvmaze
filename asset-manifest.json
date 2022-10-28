@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacttvmaze/static/css/main.5ec5686f.css",
+    "main.js": "/reacttvmaze/static/js/main.343265d7.js",
+    "static/js/787.ed51f2c4.chunk.js": "/reacttvmaze/static/js/787.ed51f2c4.chunk.js",
+    "static/media/fa-solid-900.ttf": "/reacttvmaze/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/reacttvmaze/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/reacttvmaze/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/reacttvmaze/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/reacttvmaze/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/reacttvmaze/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/reacttvmaze/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/reacttvmaze/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/reacttvmaze/index.html",
+    "main.5ec5686f.css.map": "/reacttvmaze/static/css/main.5ec5686f.css.map",
+    "main.343265d7.js.map": "/reacttvmaze/static/js/main.343265d7.js.map",
+    "787.ed51f2c4.chunk.js.map": "/reacttvmaze/static/js/787.ed51f2c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec5686f.css",
+    "static/js/main.343265d7.js"
+  ]
+}
